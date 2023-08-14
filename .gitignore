@@ -1,0 +1,4 @@
+.env
+node_modules
+aclImdb
+aclImdb_v1.tar.gz
