@@ -1,4 +1,4 @@
-# Full pythonmodel to tfjs-node
+# Full python-model to tfjs-node
 
 This is an example project to show how you can
 - Train a simple model with python (doc-classification with imdb-reviews)
